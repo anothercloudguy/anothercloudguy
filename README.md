@@ -46,12 +46,12 @@
     <strong>:telescope: Astronomy / Stargazing</strong>
   </li>
   <li>
-    <strong> :Bike: MTB Biking</strong>
+    <strong> :bike: MTB Biking</strong>
   </li>
   <li>
-    <strong>Traveling</strong>
+    <strong> :airplane: Traveling</strong>
   </li>
   <li>
-    <strong>Kayaking</strong>
+    <strong> :rowboat: Kayaking</strong>
   </li>
 </ul>
