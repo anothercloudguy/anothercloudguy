@@ -52,6 +52,6 @@
     <strong> :airplane: Traveling</strong>
   </li>
   <li>
-    <strong> :rowboat : Kayaking</strong>
+    <strong> :rowboat: Kayaking</strong>
   </li>
 </ul>
