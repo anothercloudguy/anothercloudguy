@@ -3,7 +3,7 @@
     I'm a Cloud Engineer with over 6 years of experience in cloud infrastructure.
 
 
-    _DevOps is not a job position is a philosphy_
+    _DevOps is not a job position is a philosophy_
 
     ## 🔧 Skills & Technologies
 
