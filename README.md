@@ -36,8 +36,8 @@
 
 <h2>Spoken Languages 🌐</h2>
 <ul>
-  <li>English: Proficient (C1)</li>
-  <li>Spanish: Native</li>
+  <li>:us: English: Proficient (C1)</li>
+  <li>:es: Spanish: Native</li>
 </ul>
 
 <h2>Personal Interests</h2>
@@ -52,6 +52,6 @@
     <strong> :airplane: Traveling</strong>
   </li>
   <li>
-    <strong> :rowboat: Kayaking</strong>
+    <strong> :rowboat : Kayaking</strong>
   </li>
 </ul>
