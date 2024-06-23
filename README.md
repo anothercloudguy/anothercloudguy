@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋 I'm Roberto Gomez</h1>
+<h1 align="center">Roberto Gomez</h1>
+<h1 align="center">Cloud Engineer :cloud: :computer:</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/robertomgomezr/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Roberto Gomez"/></a>
@@ -11,13 +12,46 @@
 👨‍💻 I am a Cloud DevOps Engineer with 6+ years of experience in cloud infrastructure. Passionate about leveraging technology to improve efficiency and drive innovation, I am currently integrating AI into cloud operations to discover new solutions and enhance performance.
 </p>
 
-<h2>Skills & Technologies 🔧</h2>
+_this is my new github account older one was @rmgomez44_
+
+<h3>Skills & Technologies 🔧</h3>
+<h3>Operating Systems </h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,mint,redhat,powershell,windows&perline=12" />
+  </a>
+</p>
+
+<h2>Cloud Providers :cloud:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=12" />
+  </a>
+</p>
+<h3>Infra as Code prefered tools 🔧</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,ansible,git,github&perline=12" />
+  </a>
+</p>
+<h3>My scripting automation and coding tools </h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,powershell,vim&perline=12" />
+  </a>
+</p>
+<h2>Web development</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,php,css,js,wordpress&perline=12" />
+  </a>
+</p>
+<h2>Cloud Providers 🔧</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,git,php,html,css,js,python,bash,linux,github&perline=12" />
   </a>
 </p>
-<br>
 
 <h2>Professional Experience 💼</h2>
 <ul>
