@@ -9,10 +9,11 @@
 
 <h2>About Me 😃</h2>
 <p align="left">
-👨‍💻 I am a Cloud DevOps Engineer with 6+ years of experience in cloud infrastructure. Passionate about leveraging technology to improve efficiency and drive innovation, I am currently integrating AI into cloud operations to discover new solutions and enhance performance.
-</p>
+👨‍💻 <p>I'm a Cloud DevOps Engineer with over 6 years of experience in cloud infrastructure. Mostly, I'm a former developer because the way you think makes you a programmer. Yes, a programmer! I've coded in many popular languages since I was a teenager. When I was 13 years old, I devoured a BASIC programming language manual and that same night, I created my first program on a FX-750 Casio Programmable calculator.</p>
 
-<quote>this is my new github account older one was @rmgomez44</quote>
+<p>I started slowly to pivot towards OS's and Infrastructure when I discovered Linux around 2009. My passion for it led me to start learning and eventually taking professional courses in Linux System Administration. Like many sysadmins out there, I was trained on the job to navigate the new world of cloud computing and infrastructure as code.</p>
+
+<quote>This is my new github account older one was @rmgomez44</quote>
 
 <h3>Skills & Technologies 🔧</h3>
 <h3>Operating Systems </h3>
