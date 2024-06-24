@@ -12,7 +12,7 @@
 👨‍💻 I am a Cloud DevOps Engineer with 6+ years of experience in cloud infrastructure. Passionate about leveraging technology to improve efficiency and drive innovation, I am currently integrating AI into cloud operations to discover new solutions and enhance performance.
 </p>
 
-_this is my new github account older one was @rmgomez44_
+<quote>this is my new github account older one was @rmgomez44</quote>
 
 <h3>Skills & Technologies 🔧</h3>
 <h3>Operating Systems </h3>
