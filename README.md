@@ -1,5 +1,5 @@
 <h1 align="center">Roberto Gomez</h1>
-<h1 align="center">Cloud Engineer :cloud: :computer:</h1>
+<h1 align="center">Cloud Engineer ☁️ :computer:</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/robertomgomezr/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Roberto Gomez"/></a>
@@ -46,24 +46,16 @@ _this is my new github account older one was @rmgomez44_
     <img src="https://skillicons.dev/icons?i=html,php,css,js,wordpress&perline=12" />
   </a>
 </p>
-<h2>Cloud Providers 🔧</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,git,php,html,css,js,python,bash,linux,github&perline=12" />
-  </a>
-</p>
 
-<h2>Professional Experience 💼</h2>
+
+<h2>💼 Most Recent Work Experience</h2>
 <ul>
   <li>
-    <strong>Cloud DevOps Engineer at Globant (Dec 2020 - Present)</strong>
+    <strong>Cloud Engineer at Globant since Dec 2020</strong>
    
   </li>
   <li>
     <strong>Cloud Engineer at Accenture (Nov 2017 - Dec 2020)</strong>
-  </li>
-  <li>
-    <strong>Web Developer at Arawa.com (Feb 2012 - Jun 2017)</strong>
   </li>
 </ul>
 
@@ -77,15 +69,18 @@ _this is my new github account older one was @rmgomez44_
 <h2>Personal Interests</h2>
 <ul>
   <li>
-    <strong>:telescope: Astronomy / Stargazing</strong>
+    <strong>:telescope: Astronomy / Stargazing ☄️🪐</strong>
   </li>
   <li>
-    <strong> :bike: MTB Biking</strong>
+    <strong> :bike: MTB Biking 🚵🏾‍♂️</strong>
   </li>
   <li>
-    <strong> :airplane: Traveling</strong>
+    <strong> :airplane: Travel  </strong>
   </li>
   <li>
     <strong> :rowboat: Kayaking</strong>
+  </li>
+  <li>
+    <strong> 🚴‍♂️ 🥏 🛼 🪁 🤿 🚴‍♂️ 🛹 🎢</strong>
   </li>
 </ul>
