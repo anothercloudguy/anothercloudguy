@@ -9,9 +9,11 @@
 
 <h2>About Me 😃</h2>
 <p align="left">
-👨‍💻 <p>I'm a Cloud DevOps Engineer with over 6 years of experience in cloud infrastructure. Mostly, I'm a former developer because the way you think makes you a programmer. Yes, a programmer! I've coded in many popular languages since I was a teenager. When I was 13 years old, I devoured a BASIC programming language manual and that same night, I created my first program on a FX-750 Casio Programmable calculator.</p>
+<p>👨‍💻 I'm a Cloud DevOps Engineer with over 6 years of experience in cloud infrastructure. Mostly, I'm a former developer because the way you think makes you a programmer. Yes, a programmer! I've coded in many popular languages since I was a teenager. When I was 13 years old, I devoured a BASIC programming language manual and that same night, I created my first program on a FX-750 Casio Programmable calculator.</p>
 
-<p>I started slowly to pivot towards OS's and Infrastructure when I discovered Linux around 2009. My passion for it led me to start learning and eventually taking professional courses in Linux System Administration. Like many sysadmins out there, I was trained on the job to navigate the new world of cloud computing and infrastructure as code.</p>
+<p>I started to pivot towards OS's and Infrastructure when I discovered Linux around 2009. My passion for it led me to start learning and eventually taking professional courses in Linux System Administration. Like many sysadmins out there, I was trained on the job to navigate the new world of cloud computing and infrastructure as code.</p>
+
+<p>Since 2023, I have started experimenting with AI, not just for generating content, but by using APIs and automation to solve tedious or time-consuming tasks. This new interest allows me to explore innovative solutions and integrate them into my workflow. Maybe my next jump/pivot will be towards MLOps, only time will tell.</p>
 
 <quote>This is my new github account older one was @rmgomez44</quote>
 
@@ -76,10 +78,13 @@
     <strong> :bike: MTB Biking 🚵🏾‍♂️</strong>
   </li>
   <li>
-    <strong> :airplane: Travel  </strong>
+    <strong> ✈️ Travel  </strong>
+  </li>
+   <li>
+    <strong> 🎤 Stand-up Shows </strong>
   </li>
   <li>
-    <strong> :rowboat: Kayaking</strong>
+    <strong> 🚣 Kayaking</strong>
   </li>
   <li>
     <strong> 🚴‍♂️ 🥏 🛼 🪁 🤿 🚴‍♂️ 🛹 🎢</strong>
