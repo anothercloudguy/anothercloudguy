@@ -94,8 +94,8 @@
 ## 🚀 My Projects
 
 *   **[Elevator Algorithm](https://github.com/anothercloudguy/Elevators_Demo):** A project that demonstrate a way to address the elevator algorith problem with HTML and JavaScript*
-*   **[Project Name 2] (Link to Repo):** Another description. *Example: Terraform module for setting up a basic VPC network.*
-*   **(Add more as you create/publish them!)**
+*   **[A DevOps Workshop](https://github.com/anothercloudguy/DevOps-Workshop):** This is a fun end-to-end exercise to practice infrastructure as code and DevOps tools. To create a DEMO app in Python to register unique visitors, store data in PostgreSQL*
+
 
 *(Due to the nature of my professional work, many projects involve sensitive infrastructure and cannot be shared publicly. The projects shared here are personal experiments and tools.)*
 
