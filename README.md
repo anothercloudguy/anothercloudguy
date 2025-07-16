@@ -93,7 +93,7 @@
 
 ## 🚀 My Projects
 
-*   **[Project Name 1] (Link to Repo):** A brief description of what this project does and the technologies used. *Example: A Python script to automate AWS S3 bucket backups.*
+*   **[Elevator Algorithm] (https://github.com/anothercloudguy/Elevators_Demo):** A project that demosntrate a wat to address the elevetor algorith problem with HTML and JavaScript*
 *   **[Project Name 2] (Link to Repo):** Another description. *Example: Terraform module for setting up a basic VPC network.*
 *   **(Add more as you create/publish them!)**
 
